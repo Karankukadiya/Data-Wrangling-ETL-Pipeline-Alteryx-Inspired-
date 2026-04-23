@@ -1,0 +1,2 @@
+raw_sales_rows,valid_sales_rows,customer_rows_after_dedup,product_rows_after_dedup,final_rows,matched_rows,invalid_rows_removed
+12,8,10,10,8,8,4

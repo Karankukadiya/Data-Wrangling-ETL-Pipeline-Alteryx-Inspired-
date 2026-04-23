@@ -1,0 +1,9 @@
+order_id,customer_id,product_id,order_date,quantity,sales_amount,region,calc_revenue,is_valid_sale,customer_name,gender,city,state,segment,product_name,category,sub_category,unit_price,join_status
+1001,C001,P101,01-04-2026,2,500,West,1000,TRUE,Aarav Shah,Male,Ahmedabad,Gujarat,Consumer,Laptop,Electronics,Computers,250,Matched
+1002,C002,P102,02-04-2026,1,1200,North,1200,TRUE,Diya Patel,Female,Surat,Gujarat,Corporate,Phone,Electronics,Mobiles,1200,Matched
+1003,C003,P103,03-04-2026,3,450,South,1350,TRUE,Rahul Mehta,Male,Mumbai,Maharashtra,Consumer,Headphones,Electronics,Audio,150,Matched
+1004,C004,P104,04-04-2026,1,800,East,800,TRUE,Sneha Joshi,Female,Pune,Maharashtra,Home Office,Chair,Furniture,Office,800,Matched
+1005,C005,P105,05-04-2026,5,250,West,1250,TRUE,Kabir Verma,Male,Jaipur,Rajasthan,Consumer,Notebook,Stationery,Paper,50,Matched
+1006,C006,P106,06-04-2026,2,1100,North,2200,TRUE,Isha Nair,Female,Unknown,Kerala,Corporate,Monitor,Electronics,Displays,550,Matched
+1007,C003,P103,03-04-2026,3,450,South,1350,TRUE,Rahul Mehta,Male,Mumbai,Maharashtra,Consumer,Headphones,Electronics,Audio,150,Matched
+1008,C007,P107,08-04-2026,4,1500,East,6000,TRUE,Yash Kumar,Male,Delhi,Delhi,Consumer,Desk,Furniture,Office,375,Matched
