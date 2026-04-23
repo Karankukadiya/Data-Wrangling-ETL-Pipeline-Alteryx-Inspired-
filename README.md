@@ -1,4 +1,4 @@
-# Alteryx Data Wrangling Demo
+# Data Wrangling & ETL Pipeline (Alteryx Inspired)
 
 ## 📌 Overview
 This project demonstrates a data wrangling workflow similar to Alteryx. It cleans and joins three datasets (sales, customer, product) into a single analysis-ready dataset.
