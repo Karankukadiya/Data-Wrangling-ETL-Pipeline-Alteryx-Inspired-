@@ -1,0 +1,37 @@
+Alteryx-style workflow mapping
+
+1. Input Data tools
+   - Read sales.csv, customer.csv, product.csv
+
+2. Select tool
+   - Keep relevant fields
+   - Standardize field names
+
+3. Data Cleansing tool
+   - Trim spaces
+   - Replace blanks with nulls
+   - Fix date and numeric formats
+
+4. Unique tool
+   - Remove duplicate customer_id and product_id rows
+
+5. Formula tool
+   - Create calc_revenue
+   - Create is_valid_sale flag
+
+6. Filter tool
+   - Keep only rows with valid customer_id, product_id, quantity > 0, and valid order_date
+
+7. Join tool
+   - Join sales + customer on customer_id
+
+8. Join tool
+   - Join previous output + product on product_id
+
+9. Browse / Output tool
+   - Validate row counts
+   - Export final_wrangled_dataset.csv
+   - Export workflow_summary.csv
+
+10. Comment tool
+   - Inline logging is added in the Python script via add_comment()
