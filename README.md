@@ -40,4 +40,4 @@ This project demonstrates a data wrangling workflow similar to Alteryx. It clean
 
 ## ▶️ How to Run
 ```bash
-python alteryx_data_wrangling_demo.py
+python alteryx_data_wrangling.py
